@@ -1,0 +1,24 @@
+{
+  "name": "simple-implementation-for-blockchain-using-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "preinstall": "sh ./install.sh",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipulrajdeep/simple-implementation-for-blockchain-using-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipulrajdeep/simple-implementation-for-blockchain-using-javascript/issues"
+  },
+  "homepage": "https://github.com/vipulrajdeep/simple-implementation-for-blockchain-using-javascript#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
